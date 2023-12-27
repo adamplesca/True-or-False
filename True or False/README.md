@@ -1,4 +1,4 @@
-<p align="center"><img src="/images/fav.png" width="500" ><br><h1 align="center">True or False</h1></p>
+<p align="center"><h1 align="center">True or False</h1></p>
 
 # Simple Web Browser Game
 
